@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-content: flex-end;
+}
+.container > div {
+    padding: 6px;
+    border: 3px;
+    text-align: center;
+    font-family: arial;
+    font-size: x-small;
+    color: #000;
+    border-radius: 3px;
+    border: 1px solid;
+    border-color: #dedede;
+}
+.bawah
+.bawah {
+    display: flex;
+    justify-content: center;
+    padding: 6px;
+    border: 3px;
+    text-align: end;
+    font-family: arial;
+    font-size: small;
+}
